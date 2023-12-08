@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - main # or main, depending on your default branch
+      #ariff is mean to me
 
 jobs:
   ftp-deploy:
